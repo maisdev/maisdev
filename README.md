@@ -13,7 +13,7 @@
 <pre>
     About Me
     maisdev.
-    currently studying at school, also studying to become a data scientist
+    also studying to become a data scientist
 </pre>
 <br><br>
 
