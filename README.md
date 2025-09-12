@@ -1,4 +1,4 @@
-# 🌍 ~Hello World~ 🌍
+#  ~hello world
 
 ![Profile Image](https://i.pinimg.com/736x/a8/65/5d/a8655de3e3c3487f228ffada6daf3f9f.jpg)
 
