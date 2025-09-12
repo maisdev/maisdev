@@ -5,7 +5,7 @@
 ---
 
 ## About Me
-👋 Hi there! I'm **maisdev**, a passionate developer and aspiring data scientist.  
+Hi there! I'm **maisdev**, a passionate developer and aspiring data scientist.  
 I love exploring new technologies and working on interesting projects.
 
 ---
